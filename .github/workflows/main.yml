@@ -27,4 +27,4 @@ jobs:
           CHAOXING_USERNAME: ${{ secrets.CHAOXING_USERNAME }}
           CHAOXING_PASSWORD: ${{ secrets.CHAOXING_PASSWORD }}
           CHAOXING_COURSE_LIST: ${{ secrets.CHAOXING_COURSE_LIST }}
-        run: python main.py -u 13030231396 -p aa385758ke -l 262117930
+        run: python main.py -u 13030231396 -p aa385758ke -l 249902580
